@@ -1,0 +1,6 @@
+# dotenv environment variables file
+.env
+# Mac specific folder
+.DS_Store
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
