@@ -1,5 +1,7 @@
 #CSV files
 *.csv
+*.txt
+experiments/*
 # dotenv environment variables file
 .env
 # Mac specific folder
